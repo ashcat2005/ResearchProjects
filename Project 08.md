@@ -53,7 +53,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering magnetar magnetospheric physics, *Fermi*-GBM instrumentation and detector response forward-folding, statistical timing/spectral methodology, empirical burst results, and astrophysical implications.
-   * A 20-minute oral defense presentation summarizing the theoretical background, data analysis pipeline, observational findings, and conclusions.
 
 ---
 
@@ -83,7 +82,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Perform ensemble correlation analyses ($L_{\text{BB}}$ vs. $kT$, $R_{\text{BB}}^2$ vs. $kT$, and hardness–intensity correlations) using MCMC linear regression accounting for bivariate measurement errors.
 * **Week 14:** Generate publication-grade thesis figures (multi-band light curves with Bayesian Blocks, $\nu F_\nu$ spectral fit comparisons, time-resolved $kT(t)/R_{\text{BB}}(t)$ tracks, and $R_{\text{BB}}^2\text{--}kT$ scaling plots). Draft Chapters 1–3 of the thesis (Introduction, Magnetar Physics, GBM Spectral Methodology).
 * **Week 15:** Draft Chapters 4–5 (Time-Integrated & Time-Resolved Results, FRB Comparison, Discussion, and Conclusions). Clean, document, and finalize the `pyMagBurst` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

@@ -51,7 +51,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering pulsar magnetospheric electrodynamics, statistical catalog methodology, evolutionary modeling, selection-bias analysis, and astrophysical discussion.
-   * A 20-minute oral defense presentation summarizing the methodology, data analysis, simulation results, and conclusions.
 
 ---
 
@@ -81,7 +80,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Perform two-sample Kolmogorov–Smirnov (KS) tests comparing synthetic detected pulsar distributions against the observed ATNF catalog to constrain mean birth spin periods $\langle P_0 \rangle$ and magnetic field decay timescales $\tau_{\text{Ohm}}$.
 * **Week 14:** Generate final publication-quality figures (annotated $P\text{--}\dot{P}$ diagram, GMM cluster contours, death-valley boundaries, decaying-$B$ tracks, and Monte Carlo synthetic distributions). Draft Chapters 1–3 of the thesis (Introduction, Theoretical Framework, Catalog Methodology).
 * **Week 15:** Draft Chapters 4–5 (Statistical Results, Evolutionary Tracks, Population Synthesis, and Conclusions). Clean, document, and finalize the `pyPulsarPop` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

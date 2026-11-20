@@ -53,7 +53,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering general relativistic null geodesics, Lorentz transformations of specific intensity, numerical integration methods, parameter studies, and astrophysical applications to X-ray pulsars.
-   * A 20-minute oral defense presentation summarizing the physical theory, computational workflow, and key findings.
 
 ---
 
@@ -83,7 +82,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Download public **NICER** folded pulse-profile data for **PSR J0030+0451** (via Zenodo / HEASARC) and perform qualitative comparisons with synthetic dual-hotspot waveforms to illustrate non-antipodal magnetic field signatures.
 * **Week 14:** Produce publication-grade thesis figures (ray trajectories, Beloborodov error curves, energy-resolved light curves, and pulsed-fraction heatmaps). Draft Chapters 1–3 of the thesis (Introduction, Relativistic Optics Theory, Numerical Methodology).
 * **Week 15:** Draft Chapters 4–5 (Results, Parameter Degeneracies, Observational Implications, and Conclusions). Clean, document, and finalize the `pyPulseRay` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX formatting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX formatting polish, and final thesis submission.
 
 ---
 

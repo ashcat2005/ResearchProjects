@@ -53,7 +53,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering relativistic stellar structure theory, physics-informed deep learning mathematics, neural architecture and optimization design, quantitative error benchmarks, and computational astrophysics discussion.
-   * A 20-minute oral defense presentation summarizing the theoretical formulation, neural network methodology, benchmark results, and conclusions.
 
 ---
 
@@ -83,7 +82,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Conduct comprehensive computational benchmarks measuring training cost vs. amortized batch inference speed ($10^3$ to $10^5$ stellar evaluations) against vectorized/sequential RK4 solvers.
 * **Week 14:** Generate publication-grade thesis figures (network architecture schematics, Adam+L-BFGS loss curves, radial profile error plots, and PINN vs. RK4 $M\text{--}R$ curves). Draft Chapters 1–3 of the thesis (Introduction, TOV Theory, PINN Methodology).
 * **Week 15:** Draft Chapters 4–5 (Benchmarking Results, Nuclear EoS Generalization, Strengths & Limitations of PINNs in Astrophysics, and Conclusions). Clean, document, and finalize the `pyPINN-TOV` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

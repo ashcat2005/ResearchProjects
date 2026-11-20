@@ -52,7 +52,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering theoretical derivations, numerical methods, code verification, physical results, and astrophysical discussion.
-   * A 20-minute oral defense presentation summarizing methodology and key findings.
 
 ---
 
@@ -82,7 +81,7 @@ The project is structured across **16 weeks (4 months)**, organized into four mo
 * **Week 13:** Retrieve public NICER mass–radius posterior samples for **PSR J0030+0451** and **PSR J0740+6620** (via Zenodo) and incorporate Shapiro-delay mass measurements (e.g., PSR J0348+0432).
 * **Week 14:** Produce final publication-grade figures overlaying theoretical $M\text{--}R$ curves with observational contours. Draft Chapters 1–3 of the thesis (Introduction, Theoretical Framework, Numerical Methodology).
 * **Week 15:** Draft Chapters 4–5 (Results, Observational Constraints, Discussion, and Conclusions). Clean, document, and finalize the GitHub code repository.
-* **Week 16:** Advisor review, proofreading, LaTeX formatting polish, final thesis submission, and preparation of defense slides.
+* **Week 16:** Advisor review, proofreading, LaTeX formatting polish, and final thesis submission.
 
 ---
 

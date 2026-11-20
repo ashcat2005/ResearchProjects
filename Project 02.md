@@ -54,7 +54,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) detailing relativistic perturbation theory, numerical implementation, code verification, physical results, and gravitational-wave implications.
-   * A 20-minute oral defense presentation summarizing the methodology, results, and conclusions.
 
 ---
 
@@ -84,7 +83,7 @@ The project is organized over **16 weeks (4 months)** into four structured month
 * **Week 13:** Retrieve public LIGO/Virgo parameter estimation posterior samples for **GW170817** (via GWOSC). Compute the binary tidal deformability $\tilde{\Lambda}(m_1, m_2)$ along the fixed chirp-mass curve $\mathcal{M} = 1.186\,M_{\odot}$.
 * **Week 14:** Generate publication-quality figures overlaying theoretical $\tilde{\Lambda}$ predictions against GW170817 observational bounds. Draft Chapters 1–3 of the thesis (Introduction, Perturbation Theory, Numerical Methods).
 * **Week 15:** Draft Chapters 4–5 (Results, Universal Relations, Gravitational-Wave Constraints, and Conclusions). Clean, document, and finalize the `pyTidalNS` GitHub repository.
-* **Week 16:** Advisor feedback integration, thorough proofreading, LaTeX typesetting polish, final thesis submission, and defense presentation rehearsal.
+* **Week 16:** Advisor feedback integration, thorough proofreading, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

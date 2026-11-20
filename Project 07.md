@@ -53,7 +53,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) detailing neutron star interior superfluidity, pulsar timing methodology, Bayesian MCMC inference, empirical glitch fitting results, and nuclear EoS implications.
-   * A 20-minute oral defense presentation summarizing the theoretical background, statistical methodology, observational fits, and physical conclusions.
 
 ---
 
@@ -83,7 +82,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Synthesize cross-pulsar comparisons (Vela vs. Crab vs. PSR J0537$-$6910) correlating glitch size, healing parameter $Q$, and characteristic age $\tau_c$, evaluating how internal temperature governs vortex creep timescales.
 * **Week 14:** Generate publication-grade thesis figures (timing residual fits, MCMC corner plots, cumulative activity staircases, and crustal moment-of-inertia constraints). Draft Chapters 1–3 of the thesis (Introduction, Superfluid Theory, Bayesian Timing Methodology).
 * **Week 15:** Draft Chapters 4–5 (Vela & Crab Fitting Results, Crustal Superfluid Constraints, Discussion, and Conclusions). Clean, document, and finalize the `pyGlitchFit` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

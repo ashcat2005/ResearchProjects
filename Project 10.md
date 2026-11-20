@@ -52,7 +52,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) covering radio pulsar search fundamentals, dispersion and RFI physics, machine learning and convolutional neural network methodology, quantitative model benchmarks, and astrophysical error analysis.
-   * A 20-minute oral defense presentation summarizing the observational problem, deep learning architecture, empirical benchmarks, and conclusions.
 
 ---
 
@@ -82,7 +81,7 @@ The project is organized across **16 weeks (4 months)** into four structured mon
 * **Week 13:** Benchmark inference throughput (candidates classified per second on CPU/GPU) to demonstrate scalability for next-generation survey pipelines (FAST / SKA data rates).
 * **Week 14:** Generate publication-grade thesis figures (multi-branch CNN architecture schematic, Precision–Recall curves, confusion matrices, Grad-CAM diagnostic overlays, and completeness heatmaps). Draft Chapters 1–3 of the thesis (Introduction, Pulsar Search & RFI Physics, Deep Learning Methodology).
 * **Week 15:** Draft Chapters 4–5 (Benchmarking Results, Model Interpretability, Astrophysical Error Analysis, and Conclusions). Clean, document, and finalize the `pyPulsarNet` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 

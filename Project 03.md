@@ -52,7 +52,6 @@ At the conclusion of the 4-month research period, the student will deliver the f
 
 3. **Undergraduate Thesis Manuscript & Defense:**
    * A formal LaTeX-typeset undergraduate thesis (40–60 pages) presenting the perturbative derivation, numerical shooting/matching algorithms, code benchmarks, physical results, and pulsar astrophysics implications.
-   * A 20-minute oral defense presentation summarizing the methodology, numerical verification, and scientific conclusions.
 
 ---
 
@@ -82,7 +81,7 @@ The project is structured across **16 weeks (4 months)** into four distinct mont
 * **Week 13:** Assess the validity regime of the slow-rotation approximation by comparing rotational kinetic-to-gravitational energy ratios ($T/|W|$) and estimating Keplerian breakup limits ($\Omega_K$) across EoSs.
 * **Week 14:** Generate publication-grade thesis figures (radial perturbation profiles, $I(M)$ curves, $M\text{--}R_e$ rotational shifts, and $\bar{I}\text{--}\bar{Q}$ universality plots). Draft Chapters 1–3 of the thesis (Introduction, Hartle–Thorne Theory, Numerical Methods).
 * **Week 15:** Draft Chapters 4–5 (Code Validation, Nuclear EoS Results, Universal Relations, and Conclusions). Clean, document, and finalize the `pyHartleThorne` GitHub repository.
-* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, final thesis submission, and rehearsal of the 20-minute defense presentation.
+* **Week 16:** Advisor review, feedback integration, LaTeX typesetting polish, and final thesis submission.
 
 ---
 
